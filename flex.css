@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 700px;
+    height: 500px;
+    border: 2px solid;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.header{
+    width: 680px;
+    height: 150px;
+    background-color: yellow;
+    margin: 5px;
+
+}
+.boxes{
+    display: flex;
+   
+}
+.nav{
+    width:150px ;
+    height: 310px ;
+    background-color: yellow;
+    margin: 5px;
+}
+.aa{
+    display: flex;
+}
+.article{
+    width: 350px;
+    height: 150px;
+    background-color: yellow;
+    margin: 5px;
+
+}
+.ads{
+    width: 160px;
+    height: 150px;
+    background-color: yellow;
+    margin: 5px;
+}
+.footer{
+    width: 520px;
+    height: 150px;
+    background-color: yellow;
+    margin: 5px;
+}
